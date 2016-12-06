@@ -10,6 +10,7 @@ namespace fw_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("first app");
         }
     }
 }
